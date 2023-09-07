@@ -68,7 +68,7 @@ DATABASES = {
         'ENGINE': 'mysql.connector.django',
         'NAME': 'crm_project',
         'USER': 'root',
-        'PASSWORD': 'iammacrm',
+        'PASSWORD': 'password123',
         'HOST': 'localhost',
         'PORT': 3306,
     }
